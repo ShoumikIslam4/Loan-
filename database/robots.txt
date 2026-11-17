@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+# Block all crawlers from the entire site
+# This is a financial application and should not be indexed
+# All pages contain sensitive financial information
+
+Sitemap:
